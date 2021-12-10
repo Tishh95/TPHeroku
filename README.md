@@ -3,6 +3,7 @@
 Pour voir l'application voici le lien:
 
   https://test2060.herokuapp.com/
+  https://test2060.herokuapp.com/exemple
 
 
 
